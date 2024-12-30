@@ -1,0 +1,5 @@
+﻿  50_DeleteAccountByAccountNumber.cpp
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\50_DeleteAccountByAccountNumber\50_DeleteAccountByAccountNumber.cpp(215,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\50_DeleteAccountByAccountNumber\50_DeleteAccountByAccountNumber.cpp(266,1): warning C4715: 'loadDataFromFile': not all control paths return a value
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\50_DeleteAccountByAccountNumber\50_DeleteAccountByAccountNumber.cpp(364,1): warning C4715: 'deleteClientByAccountNumber': not all control paths return a value
+  50_DeleteAccountByAccountNumber.vcxproj -> D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\50_DeleteAccountByAccountNumber\x64\Debug\50_DeleteAccountByAccountNumber.exe

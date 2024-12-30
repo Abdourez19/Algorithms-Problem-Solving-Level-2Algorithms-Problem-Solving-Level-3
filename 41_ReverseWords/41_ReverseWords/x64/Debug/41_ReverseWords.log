@@ -1,0 +1,4 @@
+﻿  41_ReverseWords.cpp
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\41_ReverseWords\41_ReverseWords.cpp(22,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\41_ReverseWords\41_ReverseWords.cpp(41,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  41_ReverseWords.vcxproj -> D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\41_ReverseWords\x64\Debug\41_ReverseWords.exe

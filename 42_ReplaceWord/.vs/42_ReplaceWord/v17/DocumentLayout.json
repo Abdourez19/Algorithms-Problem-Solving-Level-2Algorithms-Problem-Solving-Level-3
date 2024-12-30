@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\42_ReplaceWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F7A6A7-4D93-4291-BA86-1E610BA3B482}|42_ReplaceWord.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\42_ReplaceWord\\42_ReplaceWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36F7A6A7-4D93-4291-BA86-1E610BA3B482}|42_ReplaceWord.vcxproj|solutionrelative:42_ReplaceWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "42_ReplaceWord.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\42_ReplaceWord\\42_ReplaceWord.cpp",
+              "RelativeDocumentMoniker": "42_ReplaceWord.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\42_ReplaceWord\\42_ReplaceWord.cpp",
+              "RelativeToolTip": "42_ReplaceWord.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T08:34:04.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

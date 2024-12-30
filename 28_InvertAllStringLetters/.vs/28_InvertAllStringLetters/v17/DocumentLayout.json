@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\28_InvertAllStringLetters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51ACD9E-0E7B-4C9D-BC07-16EE9BE53D7C}|28_InvertAllStringLetters.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\28_InvertAllStringLetters\\28_InvertAllStringLetters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A51ACD9E-0E7B-4C9D-BC07-16EE9BE53D7C}|28_InvertAllStringLetters.vcxproj|solutionrelative:28_InvertAllStringLetters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "28_InvertAllStringLetters.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\28_InvertAllStringLetters\\28_InvertAllStringLetters.cpp",
+              "RelativeDocumentMoniker": "28_InvertAllStringLetters.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\28_InvertAllStringLetters\\28_InvertAllStringLetters.cpp",
+              "RelativeToolTip": "28_InvertAllStringLetters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T13:33:47.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

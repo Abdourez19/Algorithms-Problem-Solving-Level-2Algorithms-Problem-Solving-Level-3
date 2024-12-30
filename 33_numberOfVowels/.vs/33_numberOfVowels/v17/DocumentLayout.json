@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\33_numberOfVowels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E39183-BBA9-4602-8BE0-468FF41207AA}|33_numberOfVowels.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\33_numberOfVowels\\33_numberOfVowels.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E39183-BBA9-4602-8BE0-468FF41207AA}|33_numberOfVowels.vcxproj|solutionrelative:33_numberOfVowels.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "33_numberOfVowels.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\33_numberOfVowels\\33_numberOfVowels.cpp",
+              "RelativeDocumentMoniker": "33_numberOfVowels.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\33_numberOfVowels\\33_numberOfVowels.cpp",
+              "RelativeToolTip": "33_numberOfVowels.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T14:21:22.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

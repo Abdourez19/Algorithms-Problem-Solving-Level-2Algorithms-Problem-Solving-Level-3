@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\36_countStringWords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACDF263-8BE9-454E-AFF9-9EFA21B66CAC}|36_countStringWords.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\36_countStringWords\\36_countStringWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ACDF263-8BE9-454E-AFF9-9EFA21B66CAC}|36_countStringWords.vcxproj|solutionrelative:36_countStringWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "36_countStringWords.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\36_countStringWords\\36_countStringWords.cpp",
+              "RelativeDocumentMoniker": "36_countStringWords.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\36_countStringWords\\36_countStringWords.cpp",
+              "RelativeToolTip": "36_countStringWords.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T21:07:02.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

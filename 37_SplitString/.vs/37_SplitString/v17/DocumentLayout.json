@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\37_SplitString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C47D0-31DA-4CDC-B92D-0E761F963DEB}|37_SplitString.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\37_SplitString\\37_SplitString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA8C47D0-31DA-4CDC-B92D-0E761F963DEB}|37_SplitString.vcxproj|solutionrelative:37_SplitString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "37_SplitString.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\37_SplitString\\37_SplitString.cpp",
+              "RelativeDocumentMoniker": "37_SplitString.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\37_SplitString\\37_SplitString.cpp",
+              "RelativeToolTip": "37_SplitString.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:03:47.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\03_addSumsOfMatrixToOneDimentionArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77813E-951E-4A1B-A6E0-E51F4702A2B5}|03_addSumsOfMatrixToOneDimentionArray.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\03_addSumsOfMatrixToOneDimentionArray\\03_addSumsOfMatrixToOneDimentionArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA77813E-951E-4A1B-A6E0-E51F4702A2B5}|03_addSumsOfMatrixToOneDimentionArray.vcxproj|solutionrelative:03_addSumsOfMatrixToOneDimentionArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03_addSumsOfMatrixToOneDimentionArray.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\03_addSumsOfMatrixToOneDimentionArray\\03_addSumsOfMatrixToOneDimentionArray.cpp",
+              "RelativeDocumentMoniker": "03_addSumsOfMatrixToOneDimentionArray.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\03_addSumsOfMatrixToOneDimentionArray\\03_addSumsOfMatrixToOneDimentionArray.cpp*",
+              "RelativeToolTip": "03_addSumsOfMatrixToOneDimentionArray.cpp*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T14:23:04.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

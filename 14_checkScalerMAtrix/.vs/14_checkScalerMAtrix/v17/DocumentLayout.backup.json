@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\14_checkScalerMAtrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E91A0123-539C-4440-B58E-2417FC68E411}|14_checkScalerMAtrix.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\14_checkScalerMAtrix\\14_checkScalerMAtrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E91A0123-539C-4440-B58E-2417FC68E411}|14_checkScalerMAtrix.vcxproj|solutionrelative:14_checkScalerMAtrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "14_checkScalerMAtrix.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\14_checkScalerMAtrix\\14_checkScalerMAtrix.cpp",
+              "RelativeDocumentMoniker": "14_checkScalerMAtrix.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\14_checkScalerMAtrix\\14_checkScalerMAtrix.cpp*",
+              "RelativeToolTip": "14_checkScalerMAtrix.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T14:03:38.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

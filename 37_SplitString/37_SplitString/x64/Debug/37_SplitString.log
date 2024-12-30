@@ -1,0 +1,3 @@
+﻿  37_SplitString.cpp
+D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\37_SplitString\37_SplitString.cpp(23,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  37_SplitString.vcxproj -> D:\Abou hadhoud PROGRAMMING\07 - Algorithms & Problem Solving Level 3\37_SplitString\x64\Debug\37_SplitString.exe

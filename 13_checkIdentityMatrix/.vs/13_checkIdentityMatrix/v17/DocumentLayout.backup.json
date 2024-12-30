@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\13_checkIdentityMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C589273-1722-40CD-8238-C7296A74784E}|13_checkIdentityMatrix.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\13_checkIdentityMatrix\\13_checkIdentityMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C589273-1722-40CD-8238-C7296A74784E}|13_checkIdentityMatrix.vcxproj|solutionrelative:13_checkIdentityMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13_checkIdentityMatrix.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\13_checkIdentityMatrix\\13_checkIdentityMatrix.cpp",
+              "RelativeDocumentMoniker": "13_checkIdentityMatrix.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\13_checkIdentityMatrix\\13_checkIdentityMatrix.cpp*",
+              "RelativeToolTip": "13_checkIdentityMatrix.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T08:02:19.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

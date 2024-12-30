@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\24_UpperFirstLetter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DBD276-E2E1-437E-BA16-5DF12CCD90E4}|24_UpperFirstLetter.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\24_UpperFirstLetter\\24_UpperFirstLetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DBD276-E2E1-437E-BA16-5DF12CCD90E4}|24_UpperFirstLetter.vcxproj|solutionrelative:24_UpperFirstLetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "24_UpperFirstLetter.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\24_UpperFirstLetter\\24_UpperFirstLetter.cpp",
+              "RelativeDocumentMoniker": "24_UpperFirstLetter.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\24_UpperFirstLetter\\24_UpperFirstLetter.cpp",
+              "RelativeToolTip": "24_UpperFirstLetter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T12:13:06.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

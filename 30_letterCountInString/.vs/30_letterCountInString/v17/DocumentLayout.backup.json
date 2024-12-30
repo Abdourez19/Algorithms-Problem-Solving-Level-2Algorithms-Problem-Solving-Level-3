@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\30_letterCountInString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726D98F0-6F17-445B-BD19-3CFD59587846}|30_letterCountInString.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\30_letterCountInString\\30_letterCountInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{726D98F0-6F17-445B-BD19-3CFD59587846}|30_letterCountInString.vcxproj|solutionrelative:30_letterCountInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "30_letterCountInString.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\30_letterCountInString\\30_letterCountInString.cpp",
+              "RelativeDocumentMoniker": "30_letterCountInString.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\30_letterCountInString\\30_letterCountInString.cpp",
+              "RelativeToolTip": "30_letterCountInString.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:38:23.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

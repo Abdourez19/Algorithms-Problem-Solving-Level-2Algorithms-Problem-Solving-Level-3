@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\49_FindClientByAccountNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A4DB82-0902-473E-B587-CADBFEFF3668}|49_FindClientByAccountNumber.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\49_FindClientByAccountNumber\\49_FindClientByAccountNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0A4DB82-0902-473E-B587-CADBFEFF3668}|49_FindClientByAccountNumber.vcxproj|solutionrelative:49_FindClientByAccountNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "49_FindClientByAccountNumber.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\49_FindClientByAccountNumber\\49_FindClientByAccountNumber.cpp",
+              "RelativeDocumentMoniker": "49_FindClientByAccountNumber.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\49_FindClientByAccountNumber\\49_FindClientByAccountNumber.cpp",
+              "RelativeToolTip": "49_FindClientByAccountNumber.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwFIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:48:08.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

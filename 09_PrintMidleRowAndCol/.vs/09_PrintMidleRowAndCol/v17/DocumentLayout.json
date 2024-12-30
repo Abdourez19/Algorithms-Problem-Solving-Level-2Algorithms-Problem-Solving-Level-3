@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\09_PrintMidleRowAndCol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1AB373-19A4-4A7A-8AED-480D91E5294D}|09_PrintMidleRowAndCol.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\09_PrintMidleRowAndCol\\09_PrintMidleRowAndCol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC1AB373-19A4-4A7A-8AED-480D91E5294D}|09_PrintMidleRowAndCol.vcxproj|solutionrelative:09_PrintMidleRowAndCol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09_PrintMidleRowAndCol.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\09_PrintMidleRowAndCol\\09_PrintMidleRowAndCol.cpp",
+              "RelativeDocumentMoniker": "09_PrintMidleRowAndCol.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\09_PrintMidleRowAndCol\\09_PrintMidleRowAndCol.cpp",
+              "RelativeToolTip": "09_PrintMidleRowAndCol.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T05:44:43.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

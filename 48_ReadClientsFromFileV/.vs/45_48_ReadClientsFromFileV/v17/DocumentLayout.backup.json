@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\45_48_ReadClientsFromFileV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB07B15-5B21-4185-B009-CE8A33E078E1}|45_48_ReadClientsFromFileV.vcxproj|D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\45_48_ReadClientsFromFileV\\45_48_ReadClientsFromFileV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB07B15-5B21-4185-B009-CE8A33E078E1}|45_48_ReadClientsFromFileV.vcxproj|solutionrelative:45_48_ReadClientsFromFileV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "45_48_ReadClientsFromFileV.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\45_48_ReadClientsFromFileV\\45_48_ReadClientsFromFileV.cpp",
+              "RelativeDocumentMoniker": "45_48_ReadClientsFromFileV.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\07 - Algorithms \u0026 Problem Solving Level 3\\45_48_ReadClientsFromFileV\\45_48_ReadClientsFromFileV.cpp",
+              "RelativeToolTip": "45_48_ReadClientsFromFileV.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAFIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:22:49.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
